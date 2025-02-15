@@ -10,6 +10,7 @@ I'm passionate about Cloud Network Operations and constantly exploring learning 
 📫 How to reach me:
 - **LinkedIn**: https://www.linkedin.com/in/hardeep-singh-33979615/
 - **Email**: [harrydeep22@gmail.com](mailto:
+
 My journey revolves around learning and applying technologies to automate processes and improve the efficiency of cloud and network operations. I'm excited to collaborate, share knowledge, and contribute to open-source projects in these areas.
 
 🔧 **Technologies I'm starting  learning/working with:**
