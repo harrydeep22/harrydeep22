@@ -9,7 +9,7 @@ I'm passionate about Cloud Network Operations and constantly exploring learning 
 
 📫 How to reach me:
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/harry-22/)
-- **Email**: [Email](mailto:
+- **Email**: [harrydeep22@gmail.com]
 👀 I’m interested in **Cloud Networking**, **Infrastructure Automation**, **DevOps Practices**, and **Cloud Technologies**.
 
 🌱 I’m currently learning **Azure Bicep**, **Docker**, **Kubernetes**, and **CI/CD** pipelines.
